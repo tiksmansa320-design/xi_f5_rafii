@@ -13,7 +13,7 @@
    TANTANGAN: ganti isi array "kalimat" dengan peranmu sendiri */
 const kalimat = [
   "Siswa SMAN 1 Padang",
-  "Calon Web Developer",
+  "Calon Teknik",
   "Pembelajar Kreatif"
 ];
 const elTyping = document.getElementById("typing");
